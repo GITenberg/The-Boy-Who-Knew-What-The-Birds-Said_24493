@@ -1,0 +1,38 @@
+_repo: The-Boy-Who-Knew-What-The-Birds-Said_24493
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Walker, Dugald Stewart
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '26527'
+    url: http://www.gutenberg.org/2009/agents/26527
+    wikipedia: http://en.wikipedia.org/wiki/Dugald_Stewart_Walker
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: A selection of fairy tales.
+gutenberg_issued: '2008-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Birds -- Fiction'
+- !lcsh 'Fairy tales'
+title: The Boy Who Knew What The Birds Said
+url: http://www.gutenberg.org/ebooks/24493
