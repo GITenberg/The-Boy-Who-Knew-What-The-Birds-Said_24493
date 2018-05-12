@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/893
     wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
 description: A selection of fairy tales.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24493#The-Boy-Who-Knew-What-The-Birds-Said
 gutenberg_issued: '2008-02-02'
 gutenberg_type: Text
 identifiers:
